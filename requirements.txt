@@ -1,2 +1,3 @@
 #puede estart en blanco ,sirve segun las librerias que las haya escrito 
-#pedimos que corra un pip installd
+#pedimos que corra un pip installdls
+colorama 
